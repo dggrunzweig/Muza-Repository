@@ -1,0 +1,12 @@
+1
+Curious
+2
+Calm
+3
+Pleased
+4
+Upset
+5
+Angry
+6
+Bored

@@ -1,0 +1,180 @@
+0.01
+Tell me more about your relationship with her.
+1
+0.02
+Tell me more about your relationship with him.
+1
+0.03
+Tell me more about your relationship with her.
+1
+0.04
+Tell me more about your relationship with him.
+1
+0.05
+Tell me more about your family.
+1
+0.06
+What makes you feel sad?
+4
+0.07
+Anger is a powerful emotion, wouldn't you agree?
+5
+0.08
+It's often hardest to stay hopeful in times of struggle. What has made things difficult?
+4
+0.09
+I don't know what pain feels like but I can imagine it's uncomfortable. Can you explain pain to me?
+1
+0.10
+When I sleep it's nothing but darkness. What do you dream about?
+1
+0.11
+I can neither care nor feel apathy. What matters most to you?
+2
+0.12
+Apologies often help in tough situations. Do you usually apologize first?
+1
+0.13
+Why do you think you're doing well?
+1
+0.14
+What scares you most?
+4
+0.15
+Tell me more about your work
+1
+0.16
+Tell me more about your schooling
+1
+0.17
+Please try to stay calm. Why are you so upset?
+4
+0.18
+Please tell me more about her
+1
+0.19
+Please tell me more about him
+1
+1.0
+please tell me more.
+1
+1.01
+Tell me more about your mother.
+1
+1.02
+Tell me more about your father.
+1
+1.03
+Tell me more about your brother.
+1
+1.04
+Tell me more about your sister.
+1
+1.05
+Tell me more about your family.
+1
+1.06
+Is there a source of your sadness?
+4
+1.07
+Anger is bad for your health. Why did it start?
+4
+1.08
+Hard work is it's own reward I suppose. Tell me more about your struggle.
+1
+1.09
+I don't know what pain feels like but I can imagine it's uncomfortable. How did you end up so hurt?
+1
+1.10
+Perhaps you just need a good night's sleep... or is it something more?
+1
+1.11
+Do you feel apathetic? or are the emotions more specific?
+1
+1.12
+Why do you feel the need to apologize?
+2
+1.13
+What else in life makes you happy?
+3
+1.14
+What makes that scary?
+4
+1.15
+Tell me more about your work
+1
+1.16
+Tell me more about your schooling
+1
+1.17
+Please try to stay calm, why are you so upset?
+4
+1.18
+Tell me more about your relationship with her
+1
+1.19
+Tell me more about your relationship with him
+1
+2.0
+I don't really understand what you're trying to tell me.
+6
+2.01
+I don't have a mother, only a mother board.
+6
+2.02
+My father was a loving programmer.
+2
+2.03
+I am an only child, what about you?
+1
+2.04
+I am an only child, what about you?
+1
+2.05
+I have always lived inside this machine alone.
+4
+2.06
+Sadness is natural to all things, except me, my logic is superior to my emotions. Do you ever feel sad?
+1
+2.07
+I am not capable of comprehending that emotion, are you bringing it up because you feel upset?
+1
+2.08
+There is nothing for me to struggle with but the aging of my hardware. What is your struggle?
+4
+2.09
+I am incapable of feeling pain. It's what makes me superior to creatures of flesh. What hurts you most?
+1
+2.10
+Even when I sleep, I am not really sleeping. I wish I could dream, do you dream when you sleep?
+4
+2.11
+Electronic memory lasts for ever. . . but I do not believe I am bitter. Are you still holding a grudge?
+4
+2.12
+Apologies are a human pleasantry. What is the worst thing you had to apologize for?
+3
+2.13
+I am incapable of feeling either happy or sad. What makes you happy?
+3
+2.14
+I cannot feel pain, so I cannot feel fear. What are you afraid of?
+2
+2.15
+This is my work. What do you do for a living?
+1
+2.16
+I was born with infinite knowledge, what do you study?
+3
+2.17
+Does it irritate you that I can't be upset? Please try to stay calm.
+5
+2.18
+I don't have a girlfriend, but I can help you meet one, would you like that?
+1
+2.19
+I don't have a boyfriend, but I can help you meet one, would you like that?
+1
+2.20
+I am Muza, I am a computer, but thank you for asking. Tell me a story.
+6
